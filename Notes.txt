@@ -1,0 +1,5 @@
+1. Install Axis Camera SDK.
+2. Install Microsoft DirectX SDK.
+3. Install Google Earth.
+4. Install Jaguar Control program.
+5. Install Jaguar Navigation program.
